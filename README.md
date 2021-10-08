@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @said994
+- 👋 Hi, I’m Said Yabrir
 - 👀 I’m interested in C# and JavaScript
 - 🌱 I’m currently learning ASP.NET
 - 💞️ I’m looking to collaborate on ...
