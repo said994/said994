@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Said Yabrir
-- 👀 I’m interested in C# and JavaScript
-- 🌱 I’m currently learning ASP.NET
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Mohamed Said Yabrir
+- 👀 I’m interested in the web development. and  C# and JavaScript
+- 📫 How to reach me at my gmail saidyabrir@gmail.com
 
 <!---
 said994/said994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
